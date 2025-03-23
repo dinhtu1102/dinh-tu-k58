@@ -67,6 +67,8 @@ Chú ý:
 ![image](https://github.com/user-attachments/assets/da8c21c5-07b2-4e04-ae7b-92321d2934a4)
 * các bước tạo khóa chính cho thuộc tính
 ![image](https://github.com/user-attachments/assets/fc160aea-7b30-42d8-8103-a7d03e793dbf)
+* kết quả tạo bảng.
+![image](https://github.com/user-attachments/assets/60672902-f835-4a69-b6e0-701f7959ab00)
 
 
 
