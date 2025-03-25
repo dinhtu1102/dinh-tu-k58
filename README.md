@@ -69,6 +69,61 @@ Chú ý:
 ![image](https://github.com/user-attachments/assets/fc160aea-7b30-42d8-8103-a7d03e793dbf)
 * kết quả tạo bảng.
 ![image](https://github.com/user-attachments/assets/60672902-f835-4a69-b6e0-701f7959ab00)
+* cách cấu hình tạo khóa ngoại cho bảng
+![image](https://github.com/user-attachments/assets/f7179a42-6f5f-4f2f-9e21-022456ad13ec)
+* cách cấu hình hiển thị ràng buộc của khóa ngoại và thiết lập bảng chứa khóa ngoại ,khóa chính
+![image](https://github.com/user-attachments/assets/481c680d-5718-4f7b-9863-dff8e9aedd18)
+![image](https://github.com/user-attachments/assets/dcd60225-3cdf-4ded-a421-08767f61c8cc)
+![image](https://github.com/user-attachments/assets/6519f62d-b8f5-42aa-ac96-ab75ae1106da)
+![image](https://github.com/user-attachments/assets/3e20d6f1-e805-4e31-ba6e-b9541737d986)
+![image](https://github.com/user-attachments/assets/c1c2ab54-98f4-4e33-9d12-554790834d35)
+![image](https://github.com/user-attachments/assets/9ee36e34-005b-4305-b009-804a3a7903fa)
+![image](https://github.com/user-attachments/assets/caed9226-6fa2-49b8-a116-15465003b509)
+![image](https://github.com/user-attachments/assets/761ac995-9d1b-4a27-911d-394f10219c46)
+![image](https://github.com/user-attachments/assets/79ba908b-3d99-4ace-a2da-eb84a4798966)
+![image](https://github.com/user-attachments/assets/a592d5d6-ac04-4476-88a6-32646fdeb686)
+![image](https://github.com/user-attachments/assets/5ebefb44-d0ba-4319-b092-ee560a1b5dc5)
+![image](https://github.com/user-attachments/assets/4d1fb653-6623-47af-9b72-5ca3019bf5e5)
+![image](https://github.com/user-attachments/assets/8551b76d-86bc-46f6-a067-22dfb685d181)
+![image](https://github.com/user-attachments/assets/76a41f60-8769-4283-8413-d487973ad41d)
+![image](https://github.com/user-attachments/assets/27c6482e-7886-4d96-addc-77d1200ae633)
+![image](https://github.com/user-attachments/assets/1fa032a4-fe13-4011-91c6-aed828a79b7c)
+![image](https://github.com/user-attachments/assets/f5eabdf1-da37-4b9d-9395-e18d18ae5c6e)
+![image](https://github.com/user-attachments/assets/f2233b5e-435f-47bc-a129-74a9d2960f25)
+![image](https://github.com/user-attachments/assets/fb0397ee-d345-4794-820f-5e8e2f2244d3)
+![image](https://github.com/user-attachments/assets/9237a0f7-953e-47f1-98e0-fa165500014f)
+![image](https://github.com/user-attachments/assets/429f2d3f-3b63-497a-90f7-97b072bfbca4)
+![image](https://github.com/user-attachments/assets/35c64f4f-0a76-49ab-a07b-2119a869d9cd)
+![image](https://github.com/user-attachments/assets/0cba7c71-7a7b-493e-b3ef-b60d2dcc6797)
+* một số kết quả test điều kiện của bảng
+![image](https://github.com/user-attachments/assets/150d1e47-333e-4816-bd2c-055d64c8d24d)
+![image](https://github.com/user-attachments/assets/4fcd8602-b334-455a-84fc-e4fbfc91d12c)
+* chuyển các thao tác đồ họa trên thành lệnh sq; tương đương.lưu tất cả các lệnh sql trong file : script_dml.sql
+![image](https://github.com/user-attachments/assets/d6421a6d-e738-42d1-9b4a-0a1b68bb03cd)
+![image](https://github.com/user-attachments/assets/a8ee637c-6d89-491b-9a31-d29575a47fb9)
+![image](https://github.com/user-attachments/assets/413dd70d-a1fb-4f22-833f-245ac5f23efe)
+![image](https://github.com/user-attachments/assets/eb991ec3-fc0a-4eaf-92fc-cc3e0209f68e)
+![image](https://github.com/user-attachments/assets/bd4ea8d6-90de-46bc-98ad-c289ef5331b4)
+* kết quả suất file thành công
+![image](https://github.com/user-attachments/assets/f4412d1c-d262-451a-9c57-ce72f4a3027e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
