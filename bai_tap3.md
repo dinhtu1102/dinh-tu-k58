@@ -85,4 +85,22 @@ Bài làm
 + nhập dữ liệu cho bảng "dkmh"
 ![image](https://github.com/user-attachments/assets/b31b3f2e-ba3f-430f-9cf0-af60a89990dd)
 
+3 Các lệnh truy vấn để: Tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
