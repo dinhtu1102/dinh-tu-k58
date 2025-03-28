@@ -50,8 +50,8 @@ Bên cạnh đó, sẽ có điểm thưởng 10đ cho sv :  🎁
 
 ---NHẮC LẠI THỜI HẠN DEADLINE: 23H59 NGÀY 30/03/2025---
 
-Bài làm 
-1 sửa bảng "DKMH' và thêm bảng "DIEM" 
+Bài làm 🤖🏋️‍♂️
+1 sửa bảng "DKMH' và thêm bảng "DIEM" 🖧
 + sửa bảng "DKMH".
 ![image](https://github.com/user-attachments/assets/89c358a9-c9fe-4d55-a87e-c8f58f255d36)
 + cấu hình khóa ngoại cho bảng
@@ -59,9 +59,10 @@ Bài làm
 ![image](https://github.com/user-attachments/assets/a2d463e7-d2a4-4bd3-9cd8-3df523bebadf)
 + thêm bảng "DIEM"
 ![image](https://github.com/user-attachments/assets/b5e98b27-5b6d-4e8e-8768-bd45c7053bcf)
-+ cấu hình cho bảng
++ cấu hình cho bảng 🏦
 ![image](https://github.com/user-attachments/assets/22691812-3aa2-41b0-9a91-973b13cc04e3)
-2 Nhập dữ liệu demo cho các bảng
+
+2 Nhập dữ liệu demo cho các bảng🧑‍💻
 + nhập dữ liệu cho bảng "lop"
 ![image](https://github.com/user-attachments/assets/6abe8218-0cbd-4338-a098-b1325a5e1a95)
 + nhập dữ liệu cho bảng "diem"
@@ -85,7 +86,7 @@ Bài làm
 + nhập dữ liệu cho bảng "dkmh"
 ![image](https://github.com/user-attachments/assets/b31b3f2e-ba3f-430f-9cf0-af60a89990dd)
 
-3 Các lệnh truy vấn để: Tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.
+3 Các lệnh truy vấn để: Tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.👾
 
 
 
