@@ -88,6 +88,7 @@ Bài làm 🤖🏋️‍♂️
 ![image](https://github.com/user-attachments/assets/b31b3f2e-ba3f-430f-9cf0-af60a89990dd)
 
 3 Các lệnh truy vấn để: Tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học phần.👾
+![image](https://github.com/user-attachments/assets/0c47eff7-ed03-4243-a55f-f5d1327402a5)
 
 
 
