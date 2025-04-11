@@ -1,4 +1,4 @@
-BÀI TOÁN: Sửa bài 2 để có csdl như sau:
+![image](https://github.com/user-attachments/assets/c5238cb8-f0aa-402a-87ef-5e847438f51d)BÀI TOÁN: Sửa bài 2 để có csdl như sau:
   + SinhVien(#masv,hoten,NgaySinh)
   + Lop(#maLop,tenLop)
   + GVCN(#@maLop,#@magv,#HK)
